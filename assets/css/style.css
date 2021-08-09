@@ -53,4 +53,5 @@ body{
 }
 .box input[type="submit"]:hover{
   background: #2ecc71;
+  box-shadow: 0 0 10px #2ecc71, 0 0 40px #2ecc71, 0 0 10px #2ecc71;
 }
