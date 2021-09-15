@@ -1,0 +1,1 @@
+Please move the 'et' folder to your local server location. 
